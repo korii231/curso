@@ -1,3 +1,3 @@
 # curso
-repositório referente aos estudos do curso
+repositório referente aos estudos do curso teste
 
